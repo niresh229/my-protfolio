@@ -138,8 +138,7 @@
             </ul>
             <li><strong>Time-Based Trends:</strong> Visualizes patient visits by <strong>day</strong> and <strong>hour</strong> to optimize staffing and resource allocation.</li>
         </ul>
-    </div>
-    
+    </div>  
     <div class="section">
         <h4>Consolidated View Dashboard</h4>
         <ul>
@@ -157,8 +156,7 @@
             </ul>
             <li><strong>Time-Series Analysis:</strong> Displays monthly trends for patient volumes and referral patterns.</li>
         </ul>
-    </div>
-    
+    </div>    
     <div class="section">
         <h4>Patient Details View</h4>
         <ul>
@@ -170,8 +168,7 @@
             <li><strong>Granular Analysis:</strong> Enables efficient tracking and auditing of individual patient records.</li>
         </ul>
     </div>
-    <h3><a href="https://public.tableau.com/app/profile/niresh.somisetty/viz/Project_17344329523140/SalesDashboard" target="_blank">Project 4: Sales Dashbaord by using Tableau </a></h3>
-    
+    <h3><a href="https://public.tableau.com/app/profile/niresh.somisetty/viz/Project_17344329523140/SalesDashboard" target="_blank">Project 4: Sales Dashbaord by using Tableau </a></h3>    
     <div class="section">
         <h2>Summary</h2>
         <p>The sales dashboard for 2023 provides a comprehensive overview of the company's sales performance, including key metrics, customer insights, and sales trends. It highlights areas of success as well as opportunities for improvement in product categories.</p>
